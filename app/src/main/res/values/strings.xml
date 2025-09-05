@@ -1,3 +1,39 @@
 <resources>
     <string name="app_name">list view ns</string>
+
+
+    <string-array name="countries">
+        <item>philippines</item>
+        <item>england</item>
+        <item>korea</item>
+        <item>japan</item>
+        <item>singapore</item>
+        <item>thailand</item>
+        <item>afghanistan</item>
+        <item>iraq</item>
+        <item>dubai</item>
+        <item>uae</item>
+        <item>saudi arabia</item>
+        <item>cavite</item>
+        <item>taguig</item>
+        <item>manila</item>
+        <item>bicutan</item>
+        <item>bicutan</item>
+        <item>bicutan</item>
+        <item>bicutan</item>
+        <item>bicutan</item>
+        <item>bicutan</item>
+        <item>bicutan</item>
+        <item>bicutan</item>
+        <item>bicutan</item>
+        <item>bicutan</item>
+        <item>bicutan</item>
+        <item>bicutan</item>
+        <item>bicutan</item>
+        <item>bicutan</item>
+        <item>bicutan</item>
+        <item>bicutan</item>
+
+    </string-array>
+
 </resources>

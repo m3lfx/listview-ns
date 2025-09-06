@@ -40,11 +40,11 @@ public class GridActivity extends AppCompatActivity {
         text.add("fog");
         text.add("fo0");
         text.add("bar");
-        text.add("fog");
-        text.add("fog");
-        text.add("fog");
-        text.add("fog");
-        text.add("fog");
+        text.add("abc");
+        text.add("cde");
+        text.add("fhe");
+        text.add("hij");
+        text.add("kil");
 
         image.add(R.drawable.s1);
         image.add(R.drawable.s2);
@@ -52,7 +52,7 @@ public class GridActivity extends AppCompatActivity {
         image.add(R.drawable.lto2);
         image.add(R.drawable.lto3);
         image.add(R.drawable.lto4);
-        image.add(R.drawable.lto4);
+        image.add(R.drawable.lto5);
         image.add(R.drawable.lto6);
 
     }

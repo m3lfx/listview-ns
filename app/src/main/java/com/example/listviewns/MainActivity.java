@@ -59,6 +59,21 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        buttonWeb.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent myIntent = new Intent(MainActivity.this, WebViewActivity.class);
+                startActivity(myIntent);
+            }
+        });
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent myIntent = new Intent(MainActivity.this, RecyclerViewActivity.class);
+                startActivity(myIntent);
+            }
+        });
+
 
     }
 }
